@@ -2,7 +2,8 @@
   "servers": {
     "github": {
       "type": "http",
-      "url": "https://api.githubcopilot.com/mcp/"
+      "url": "https://api.githubcopilot.com/mcp/",
+      "description": "GitHub MCP server used by the workshop to integrate Copilot with a Model Context Protocol endpoint"
     }
   }
 }
